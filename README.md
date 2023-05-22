@@ -9,14 +9,17 @@
 
 <br/>
 
+<br/>
+
 - 📍 I’m From Uzbekistan Tashkent
 - 📙 I'm at The Bachelor's degree
 
 ### 💻 Tech Stack: 
 
+
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Html5](https://img.shields.io/badge/-Html-F37431?style=for-the-badge&logo=Html5&logoColor=fff)
 ![Css3](https://img.shields.io/badge/-Css-379AD5?style=for-the-badge&logo=CSS3&logoColor=fff)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
 
 
 
@@ -24,7 +27,6 @@
 
 ![Github](https://img.shields.io/badge/-Github-14191E?style=for-the-badge&logo=github&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=fff)
-![Git](https://img.shields.io/badge/-Vscode-36A2EE?style=for-the badge&logo=VisualStudioCode&logoColor=fff)
 ![Git](https://img.shields.io/badge/-POstman-FF6C38?style=for-the-badge&logo=Postman&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Linux-F05033?style=for-the-badge&logo=Linux&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=fff)

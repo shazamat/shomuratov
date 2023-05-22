@@ -1,4 +1,4 @@
-### Hi all, <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e472ne2fm99qvy1hyyiykc88j82g4rm2f3j88pav9si&rid=giphy.gif&ct=s" width="32px"> I'm Azamat Shomuratov
+### Hi all, 👋 I'm Azamat Shomuratov
 
 ### I'm Frontend Developer
 

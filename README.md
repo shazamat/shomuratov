@@ -1,4 +1,4 @@
-### Hi all, 👋 I'm Azamat Shomuratov
+### Hi all, <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e472ne2fm99qvy1hyyiykc88j82g4rm2f3j88pav9si&rid=giphy.gif&ct=s" width="32px"> I'm Azamat Shomuratov
 
 ### I'm Frontend Developer
 
@@ -20,6 +20,8 @@
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Html5](https://img.shields.io/badge/-Html-F37431?style=for-the-badge&logo=Html5&logoColor=fff)
 ![Css3](https://img.shields.io/badge/-Css-379AD5?style=for-the-badge&logo=CSS3&logoColor=fff)
+![tailwind](https://img.shields.io/badge/tailwind01B7D6style=forthebadge&logo=tailwindcss&logoColor=fff)
+![bootstrap](https://img.shields.io/badge/bootstrap880AFCstyle=forthebadge&logo=bootstrap&logoColor=fff)
 
 
 

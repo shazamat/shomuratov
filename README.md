@@ -12,7 +12,7 @@
 <br/>
 
 - 📍 I’m From Uzbekistan Tashkent
-- 📙 Tashkent University of Information Technologies
+- - 📙 I'm at The Bachelor's degree
 
 ### 💻 Tech Stack: 
 

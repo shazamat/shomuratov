@@ -1,4 +1,4 @@
-[![Header] {https://github.com/shomuratov/shomuratov/blob/main/assets/3909233.jpg}]
+[! [Header] (https://github.com/shomuratov/shomuratov/blob/main/assets/3909233.jpg)]
 ### Hi there 👋
 
 <!--

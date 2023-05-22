@@ -1,5 +1,5 @@
 <img src="./assets/3909233.jpg">
-### Hi there 👋
+### Hi all, 👋 I'm Azamat Shomuratov
 
 <!--
 **shomuratov/shomuratov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

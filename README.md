@@ -1,4 +1,4 @@
-<img src="./assets/3909233.jpg">
+<img src="./assets/1235.jpg">
 ### Hi all, 👋 I'm Azamat Shomuratov
 
 <!--

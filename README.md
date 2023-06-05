@@ -1,6 +1,6 @@
 ### Hi all, 👋 I'm Azamat Shomuratov
 
-### I'm Frontend Developer
+### I'm Junior Frontend Developer
 
 ## How to reach me: shomuratovazamat116@gmail.com
 
